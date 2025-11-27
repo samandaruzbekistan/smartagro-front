@@ -108,7 +108,7 @@ export default function Home() {
               <Link href="/workers" className="group cursor-pointer">
                 <div className="relative bg-gradient-to-br from-slate-200 to-slate-100 rounded-2xl aspect-video overflow-hidden border border-neutral-200 hover:border-neutral-300 transition-colors">
                   <img
-                    src="/photo_2025-11-27_14-20-34.jpg"
+                    src="/workers.jpg"
                     alt="Fermer jamoasi"
                     className="w-full h-full object-cover opacity-70"
                   />
@@ -124,7 +124,7 @@ export default function Home() {
               <Link href="/analytics" className="group cursor-pointer">
                 <div className="relative bg-gradient-to-br from-blue-100 to-blue-50 rounded-2xl aspect-video overflow-hidden border border-neutral-200 hover:border-neutral-300 transition-colors">
                   <img
-                    src="/photo_2025-11-27_14-20-40.jpg"
+                    src="/financial-analytics.jpg"
                     alt="Moliyaviy tahlillar"
                     className="w-full h-full object-cover opacity-70"
                   />
