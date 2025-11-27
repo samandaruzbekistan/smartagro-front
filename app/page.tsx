@@ -89,7 +89,7 @@ export default function Home() {
                 <Link href="/machines" className="group cursor-pointer">
                   <div className="relative bg-gradient-to-br from-teal-100 to-teal-50 rounded-2xl aspect-square overflow-hidden border border-neutral-200 hover:border-neutral-300 transition-colors">
                     <img
-                      src="/photo_2025-11-27_14-20-29.jpg"
+                      src="/farm-equipment-tractor-machinery.jpg"
                       alt="Texnika va uskunalar"
                       className="w-full h-full object-cover opacity-75"
                     />
